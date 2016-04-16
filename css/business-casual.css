@@ -25,7 +25,7 @@ body {
 #acn-info    {
     text-align: center;
 }
-.fbcenter   {
+#fbcenter   {
     display: flex;
     justify-content: center;
 }
