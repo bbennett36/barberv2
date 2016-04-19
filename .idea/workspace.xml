@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5385e7ae-9827-41d0-b41e-de7bd4207b30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/barberv2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/business-casual.css" afterPath="$PROJECT_DIR$/css/business-casual.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="barberv2.iws" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="166" column="28" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+            <state relative-caret-position="130">
+              <caret line="204" column="84" selection-start-line="204" selection-start-column="84" selection-end-line="204" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -163,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1461086025952</updated>
       <workItem from="1461086028094" duration="293000" />
-      <workItem from="1461086356372" duration="187000" />
+      <workItem from="1461086356372" duration="363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="480000" />
+    <option name="totallyTimeSpent" value="656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="64" width="1281" height="704" extended-state="0" />
@@ -242,8 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="166" column="28" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+        <state relative-caret-position="130">
+          <caret line="204" column="84" selection-start-line="204" selection-start-column="84" selection-end-line="204" selection-end-column="84" />
           <folding />
         </state>
       </provider>
