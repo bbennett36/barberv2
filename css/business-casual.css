@@ -29,6 +29,9 @@ body {
     display: flex;
     justify-content: center;
 }
+#hours   {
+    color: black;
+}
 
 table   {
     font-size: 20px;
