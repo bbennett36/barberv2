@@ -25,6 +25,13 @@ body {
     letter-spacing: 2px;
 }
 
+#wanted {
+    font-size: 42px;
+    color: black;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
 #acn-info {
     text-align: center;
 }
