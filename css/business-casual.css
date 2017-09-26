@@ -13,6 +13,14 @@ body {
     -o-background-size: cover;
 }
 
+#forever img    {
+    background-color: #676e1a!important;
+}
+
+#forever  {
+    color: #676e1a!important;
+}
+
 #services {
     text-align: center;
 }
